@@ -5,9 +5,7 @@
 
 This project analyzes insurance policy and claim data using Microsoft Power BI to provide insights into policy performance, customer demographics, claims, premiums, coverage and policy activity.
 
-The dashboard enables users to interactively analyze insurance performance by Policy Number, Customer ID and Claim Number, while exploring metrics across policy types, claim status, gender and age groups.
-
-## Problem Statement/ Business Requirements
+## Business Requirements
 
 1) Monitor overall premium, claim and coverage amounts
 2) Understand the distribution of claims by claim status

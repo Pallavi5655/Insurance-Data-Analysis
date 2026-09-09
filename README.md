@@ -24,7 +24,7 @@ The dashboard enables users to interactively analyze insurance performance by Po
 
    Total Coverage Amount- 600.55 M
 
-   These KPIs provide an overview of the financial performance of the insurance portfolio.
+   * These KPIs provide an overview of the financial performance of the insurance portfolio.
 
 2. Rejected claims- 4.4 K
 
@@ -32,7 +32,7 @@ The dashboard enables users to interactively analyze insurance performance by Po
 
    Pending claims- 2.3 K 
 
-   This helps stakeholders understand the overall distribution of claims and identify categories that may require further investigation. We can also keep watch on    the pending claims number on daily basis to keep them in check. 
+   * This helps stakeholders understand the overall distribution of claims and identify categories that may require further investigation. We can also keep watch on    the pending claims number on daily basis to keep them in check. 
 
 3. Travel policy types contribute most to premium revenue of 2.5 M followed by Health of 1.2 M, Auto 1.0 M, Life 0.7 M, Home 0.6 M.
    High-performing policy types- Travel
@@ -41,20 +41,22 @@ The dashboard enables users to interactively analyze insurance performance by Po
 
    Policy types contributing significantly to premium revenue- Travel, Health, Auto
 
-4. Current status of the Active policy: 58.43% 
+   * Focus marketing and customer acquisition strategies on high-performing policy segments while reviewing the performance of weaker segments.
+
+5. Current status of the Active policy: 58.43% 
 
    Inactive Policies: 41.57% 
 
-   This provides visibility into the current policy portfolio and can help identify potential customer retention or policy renewal opportunities.
+   * This provides visibility into the current policy portfolio and can help identify potential customer retention or policy renewal opportunities.
 
-5. Highest claim amount--- 8.8 M [Adults (Age > 24 and <=60)]
+6. Highest claim amount--- 8.8 M [Adults (Age > 24 and <=60)]
    followed by the 'Elder' (Age > 60)--- 6.4 M 
 
    Lowest claim amount--- 1.7 M 'Young Adult' [age group (Age <=24)] 
 
-   This helps identify customer segments associated with higher claim values and provides an opportunity for more detailed demographic and risk analysis.
+   * This helps identify customer segments associated with higher claim values and provides an opportunity for more detailed demographic and risk analysis.
 
-6. Analyze the distribution of customers/policies by Gender, PolicyNumber, ClaimNuber, CustomerID to understand the composition of the insurance portfolio.
+7. Analyze the distribution of customers/policies by Gender, PolicyNumber, ClaimNuber, CustomerID to understand the composition of the insurance portfolio.
    This can help understand customer composition and support further segmentation analysis
 
-7. By monitoring Premium Amount, Claim Amount and Coverage Amount together, the dashboard provides a high-level view of the relationship between insurance            revenue, claim costs and insured coverage.
+8. By monitoring Premium Amount, Claim Amount and Coverage Amount together, the dashboard provides a high-level view of the relationship between insurance            revenue, claim costs and insured coverage.
